@@ -1,1 +1,1 @@
-# Exerc-cios-em-C
+# Exercicios-em-C
