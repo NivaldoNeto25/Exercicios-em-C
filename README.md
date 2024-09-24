@@ -1,6 +1,6 @@
 # Exercicios-em-C
 
-Esse repositório é focado em exercícios em C que eu realizo para treinar a linguagem.
+Esse repositório é focado em exercícios em C que eu realizo para treinar para a cadeira de programação 1.
 
 # 1- Área do círculo:
 
