@@ -1,5 +1,7 @@
 # Exercicios-em-C
 
+Esse repositório é focado em exercícios em C que eu realizo para treinar a linguagem.
+
 # Cadastro:
 
   - Este programa implementa um sistema de cadastro simples para armazenar o nome e RG de até 10 pessoas. O usuário pode:
